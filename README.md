@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Muhammad Hamza
 
-<!--
-**hamzarajput21/hamzarajput21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer & System Administrator
+BS IT graduate with 2 years of hands-on experience in technical support, Active Directory management, network diagnostics, and hardware/OS troubleshooting.
 
-Here are some ideas to get you started:
+🛠️ Technical Skills
+- **Systems & OS:** Windows Desktop & Server Administration
+- **Directory Services:** Active Directory (User Management, Password Resets, Access Control)
+- **Networking:** DNS, DHCP, IP Configuration (IP release/renew, DNS flush, network diagnostics)
+- **Email & Apps:** Outlook setup, PST/OST management, MS Office 365
+- **Hardware Support:** System installation, hardware upgrades, peripheral troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- **LinkedIn:** [Muhammad Hamza](https://linkedin.com/in/muhammad-hamza-b95916171)
+- **Email:** hamzarajput018@gmail.com
